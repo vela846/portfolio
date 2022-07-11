@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#contacto,
+#index {
+    background-image: url(../imagen/fondo-contacto.png);
+    background-size: cover;
+}
+
+#proyectos {
+    background-image: url(../imagen/fondo-proyectos.png);
+    background-size: cover;
+}
+#sobre-mi {
+    background-image: url(../imagen/sobre-mi.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: #e20000;
+}
+
+.btn {
+    color: #370a6d;
+    background-color: white;
+    border: 0px;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: #370a6d;
+    color: white;
+}
+
+.btn-rojo {
+    color: white;
+    background-color: #ff4a49;
+    border: 0px;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.btn-rojo:hover {
+    background-color: #370a6d;
+    color: white;
+
+}
+
+.link-rojo {
+    color: red;
+    text-decoration: none;
+}
+
+.btn-whatsapp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background-color: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+}
+
+footer {
+    color: black;
+    font-size: 150%;
+}
+
+footer a {
+    color: black;
+}
+
+footer .fa-githud {
+    font-size: 30px;
+    color: white;
+}
+
+footer .fa-linkedin-in {
+    color: #ff4a40;
+    background-color: white;
+    font-size: 20px;
+    border: 0px;
+    height: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 8px;
+}
+
+.proyecto {
+    background-color: white;
+}
+
+.proyecto h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    background: linear-gradient(to right, rgba(184, 37, 20, 1) 0%, rgba(214, 52, 30, 1) 47%, rgba(240, 47, 23, 1) 70%, rgba(240, 47, 23, 1) 100%);
+    padding: 16px;
+}
+
+.proyecto img {
+    height: 212px;
+}
+
+.proyecto p {
+    font-size: 14px;
+    height: 130px;
+}
+
+.inicio img {
+    height: 400px;
+}
+
+.inicio img:hover {
+    height: 410px;
+}
+
+#index p {
+    color: black;
+    font-size: 17px;
+    border: 1px white solid;
+    border-radius: 15px;
+    font-weight: 600;
+
+}
+
+.cohete {
+    height: 410px;
+
+
+}
+.imagen-perfil {
+    border-radius: 600px ;
+    height: 300px;
+}
+.stack-tecnologico {
+    background: linear-gradient(to right, rgba(184, 37, 20, 1) 0%, rgba(214, 52, 30, 1) 47%, rgba(240, 47, 23, 1) 70%, rgba(240, 47, 23, 1) 100%);
+}
+.stack-tecnologico h2{
+    font-size: 24px;
+    color: white;
+}
+.stack-tecnologico h3{
+    font-size: 14px;
+    color: black;
+    font-weight: 300;
+}
+.stack-tecnologico .tecnologia{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    height: 182px;
+}
+.stack-tecnologico .tecnologia img{
+    height: 60px;
+ }
