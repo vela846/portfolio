@@ -1,5 +1,5 @@
 <?php
-  $pa = "index"
+  $pa = "inicio"
 ?>
 
 
