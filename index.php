@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="col-12 text-center pt-3 pb-5">
-                <a href="proyectos.html" class="btn shadow">Conoce mis proyecto</a>
+                <a href="proyectos.php" class="btn shadow">Conoce mis proyecto</a>
             </div>
         </div>
     </main>
