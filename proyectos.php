@@ -1,3 +1,9 @@
+<?php
+$pg = "proyectos"
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 

@@ -1,3 +1,9 @@
+<?php
+$pg = "index"
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 
@@ -20,7 +26,7 @@
     <main class="container inicio">
         <div class="row">
             <div class="col-12 mx-auto text-center cohete">
-                <a href="proyectos.html"><img src="imagen/cohete.svg" alt=""></a>
+                <a href="proyectos.php"><img src="imagen/cohete.svg" alt=""></a>
             </div>
             <div class="col-12 col-sm-6 offset-sm-3 text-center">
                 <div class="my-4">
