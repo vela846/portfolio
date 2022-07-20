@@ -33,7 +33,7 @@
                         dolores autem. Fugit, laborum eaque!
                         datos.</p>
                     <div class="my-5">
-                        <a href="contactos.html" class="btn-rojo">Enviar mensaje</a>
+                        <a href="contactos.php" class="btn-rojo">Enviar mensaje</a>
                     </div>
                 </div>
                 <div class="col-12 col-sm-5 mx-auto text-center">
