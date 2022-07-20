@@ -1,5 +1,5 @@
 <?php
-$pg = "sobre-mi"
+  $pa = "sobre-mi"
 ?>
 
 

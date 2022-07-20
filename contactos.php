@@ -1,5 +1,5 @@
 <?php
-$pg = "contactos"
+  $pa = "contactos"
 ?>
 
 

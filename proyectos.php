@@ -1,5 +1,5 @@
 <?php
-$pg = "proyectos"
+  $pa = "proyectos"
 ?>
 
 

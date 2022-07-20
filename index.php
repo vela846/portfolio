@@ -1,5 +1,5 @@
 <?php
-$pg = "index"
+  $pg = "index"
 ?>
 
 
