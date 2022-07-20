@@ -16,7 +16,7 @@
                             <a class="nav-link" <?php echo ($pa == "proyectos")? "active": ""; ?> href="proyectos.php">Proyecto</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" <?php echo ($pa == "contactos")? "active": ""; ?> href="contactos.php">Contacto</a>
+                            <a class="nav-link" <?php echo ($pa == "contactos")? "active": ""; ?> href="contactos.php">Contacto</a>
 
                         </li>
                     </ul>
